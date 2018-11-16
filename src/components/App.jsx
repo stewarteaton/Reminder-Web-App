@@ -54,7 +54,7 @@ class App extends Component {
         console.log('this.props',this.props)
         return(
             <div className="App">
-                <div className="title">Reminder-Pro</div>
+                <div className="title">Reminder App</div>
                 <div className="form-inline">
                     <div className="form-group">
                         <input 
