@@ -1,0 +1,5 @@
+  export const ADD_REMINDER = "ADD REMINDER";
+  
+  export const DELETE_REMINDER = "DELETE REMINDER";
+
+  export const CLEAR_REMINDERS = "CLEAR REMINDERS";
